@@ -8,6 +8,9 @@
 + Grid items can be placed on the grid using the grid-row and grid-column properties, or you can use shorthand properties like grid-area.
 - CSS Grid also includes many other properties for controlling the sizing, alignment, and spacing of grid items, such as grid-gap and justify-items.
 
+[Click here to view all attributes for CSS grids](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+
+
 ## **Flexbox:**
 
 - Flexbox is a layout system in CSS that allows you to create one-dimensional layouts for arranging content on a web page.
@@ -17,3 +20,5 @@
 * You can also arrange items along a cross-axis (the opposite direction of the main axis) using the align-items property.
 + Flexbox also includes many other properties for controlling the sizing, alignment, and spacing of flex items, such as flex-grow and flex-basis.
 - Flexbox is commonly used for building responsive designs, as it allows items to be reflowed and reordered based on the available space.
+
+[Click here to view all attributes for flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
