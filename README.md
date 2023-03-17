@@ -21,3 +21,13 @@
 > https://fffuel.co/bbblurry/
 
 > https://cssgenerator.org/box-shadow-css-generator.html
+
+## General resources for good UX
+
+> https://m2.material.io/design/usability/accessibility.html
+
+> https://design.google/library/designing-global-accessibility-part-1/
+
+> https://design.google/library/designing-global-accessibility-part-2/
+
+> https://design.google/library/designing-global-accessibility-part-iii/
