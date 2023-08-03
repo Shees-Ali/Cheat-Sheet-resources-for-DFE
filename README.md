@@ -1,4 +1,8 @@
-# Cheat-Sheet-resources-for-DFE
+# Cheat Sheet Resources for Daily Frontend Challenge
+
+[Day-1](/Day%2001)
+[Day-2](/Day%2002)
+[Day-3](/Day%2003)
 
 ## General resources for styling
 
