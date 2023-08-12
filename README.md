@@ -73,6 +73,10 @@
 
 > https://cssgenerator.org/box-shadow-css-generator.html
 
+> https://freefrontend.com/
+
+> https://webartdevelopers.com/blog/
+
 ## General resources for good UX
 
 > https://m2.material.io/design/usability/accessibility.html
