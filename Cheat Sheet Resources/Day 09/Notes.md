@@ -4,7 +4,7 @@
 
 A counter is a simple numeric value that can be incremented or decremented.
 
-![Day 7 - CheatCode](/Day%2009/Day%209%20-%20CheatCode.png)
+![Day 7 - CheatCode](/Cheat%20Sheet%20Resources/Day%2009/Day%209%20-%20CheatCode.png)
 
 In this JavaScript code:
 + We initialize the counter value (count) to 0.

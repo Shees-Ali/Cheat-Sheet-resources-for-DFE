@@ -1,6 +1,6 @@
 ## Digital Clock using JavaScript
 
-![Day 7 - CheatCode](/Day%2007/Day%207%20-%20CheatCode.png)
+![Day 7 - CheatCode](/Cheat%20Sheet%20Resources/Day%2007/Day%207%20-%20CheatCode.png)
 
 ### Explanation:
 - The function updateTime() is defined to get the current time using the Date object and format the hours, minutes, and seconds with two digits.
