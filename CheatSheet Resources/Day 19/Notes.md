@@ -1,6 +1,6 @@
 ## CSS Tools to boost productivity:
 
-[make animations](https://animista.net/play/basic/rotate-scale)
+[Make animations](https://animista.net/play/basic/rotate-scale)
 
 [Glassmorphism effect](https://hype4.academy/tools/glassmorphism-generator)
 
