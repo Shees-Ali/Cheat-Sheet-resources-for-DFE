@@ -77,6 +77,10 @@
 
 > https://webartdevelopers.com/blog/
 
+> https://getwaves.io/
+
+> https://cubic-bezier.com/
+
 ## General resources for good UX
 
 > https://m2.material.io/design/usability/accessibility.html
